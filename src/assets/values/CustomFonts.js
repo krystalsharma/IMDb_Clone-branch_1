@@ -1,0 +1,16 @@
+export const CustomFonts = {
+    Bold_Italic: 'Amazon Ember Bold Italic',
+    Bold: 'Amazon Ember Bold',
+    Cd_RC_Bold_Italic: 'Amazon Ember Cd RC Bold Italic',
+    Cd_RC_Bold: 'Amazon Ember Cd RC Bold',
+    Cd_RC: 'Amazon Ember Cd RC',
+    Heavy_Italic: 'Amazon Ember Heavy Italic',
+    Heavy: 'Amazon Ember Heavy',
+    Italic: 'Amazon Ember Italic',
+    Light_Italic: 'Amazon Ember Light Italic',
+    Light: 'Amazon Ember Light',
+    Regular: 'Amazon Ember',
+    Regular_Thin: 'Amazon Ember Thin',
+    Regular_Thin_Italic: 'Amazon Ember Thin Italic',
+    RubikMaze_Regular: 'RubikMaze-Regular',
+};

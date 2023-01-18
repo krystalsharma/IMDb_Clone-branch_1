@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "101643569051",
+    "project_id": "imdb-clone-42c45",
+    "storage_bucket": "imdb-clone-42c45.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:101643569051:android:fb58d7e377c6102521833e",
+        "android_client_info": {
+          "package_name": "com.imdb_clone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "101643569051-d5e0jivt46lu0cm5962oucrtklp234q9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTIMnT5h2MiIg0aE2mX0GGiGBvZx3XoNk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "101643569051-d5e0jivt46lu0cm5962oucrtklp234q9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

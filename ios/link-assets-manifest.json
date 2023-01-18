@@ -1,0 +1,57 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "src/assets/fonts/Amazon Ember Bold Italic.ttf",
+      "sha1": "95cb288fe40b09579ef90ec4a9485f4f5b917296"
+    },
+    {
+      "path": "src/assets/fonts/Amazon Ember Bold.ttf",
+      "sha1": "9856fcbca95c6c87b54d89e903bd3b913e04b6b2"
+    },
+    {
+      "path": "src/assets/fonts/Amazon Ember Cd RC Bold Italic.ttf",
+      "sha1": "2fcf92463b509c5a1821276954776e879a29106b"
+    },
+    {
+      "path": "src/assets/fonts/Amazon Ember Cd RC Bold.otf",
+      "sha1": "98f9df7d931a38a1a9e496f2b52c85d1e98ccf66"
+    },
+    {
+      "path": "src/assets/fonts/Amazon Ember Cd RC.otf",
+      "sha1": "c8c5582da5be57ef6f80909578ce990b5e92ea22"
+    },
+    {
+      "path": "src/assets/fonts/Amazon Ember Heavy Italic.ttf",
+      "sha1": "88d901774f97b918c93b6f152c1575c1f621ca2e"
+    },
+    {
+      "path": "src/assets/fonts/Amazon Ember Heavy.ttf",
+      "sha1": "97ca44847a9fd97e32d1bbfb816a0058ba0b61e6"
+    },
+    {
+      "path": "src/assets/fonts/Amazon Ember Italic.ttf",
+      "sha1": "658b01b6f1639bda8f01e767ba478bf4770fd109"
+    },
+    {
+      "path": "src/assets/fonts/Amazon Ember Light Italic.ttf",
+      "sha1": "b3792025f00341ba58f1a18b3a27cdd053ce805f"
+    },
+    {
+      "path": "src/assets/fonts/Amazon Ember Light.ttf",
+      "sha1": "6854f3123da708222e01fe3ae8d58a9e2812e77f"
+    },
+    {
+      "path": "src/assets/fonts/Amazon Ember Thin Italic.ttf",
+      "sha1": "2ed7cd50ea521992c6c30e9e60968ce7cd7aa459"
+    },
+    {
+      "path": "src/assets/fonts/Amazon Ember Thin.ttf",
+      "sha1": "e789f8b1e382e989995bf9dc4f5ae56c6a12b1b2"
+    },
+    {
+      "path": "src/assets/fonts/Amazon Ember.ttf",
+      "sha1": "308fb9c38ad0166863ed704f292b3bc1de675d63"
+    }
+  ]
+}
